@@ -5,4 +5,5 @@ Authors:
 - Anna Vallés Colomer (UPF)
 - Simran Anand (UPF)
 - Elena Monfort Sànchez (UPF)
+- Daniel Lambisto Castro (PSMar)
 - Òscar Pera Cegarra (PSMar)
