@@ -10,3 +10,5 @@ Authors:
 - Marta de Carlos i Tolós (UPF)
 - Daniel Lambisto Castro (PSMar)
 - Òscar Pera Cegarra (PSMar & UPF)
+
+MATLAB version: Only tested with MAtlab 2014a
