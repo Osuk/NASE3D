@@ -11,4 +11,4 @@ Authors:
 - Daniel Lambisto Castro (PSMar)
 - Òscar Pera Cegarra (PSMar & UPF)
 
-MATLAB version: Only tested with MAtlab 2014a
+MATLAB version: Only tested with Matlab 2014a
